@@ -1,0 +1,14 @@
+.mainContainer {
+    width: 50%;
+    margin: auto;
+}
+.container {
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 20px 0;
+}
+span {
+    font-style: italic;
+    font-weight: bold;
+}
